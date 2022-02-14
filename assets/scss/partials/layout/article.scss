@@ -358,6 +358,7 @@
         padding: 2px 4px;
         border-radius: var(--tag-border-radius);
         font-family: var(--code-font-family);
+        white-space : pre-wrap !important;
     }
 
     .gallery {
