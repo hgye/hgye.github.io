@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on hgye's notes</title><link>https://hgye.github.io/categories/hugo/</link><description>Recent content in hugo on hgye's notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hgye.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo and github pages</title><link>https://hgye.github.io/p/fisrt/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://hgye.github.io/p/fisrt/</guid><description>hello github pages hugo github actions stack theme docs</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on hgye&#39;s notes</title>
+    <link>https://hgye.github.io/categories/hugo/</link>
+    <description>Recent content in Hugo on hgye&#39;s notes</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hgye.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo and github pages</title>
+      <link>https://hgye.github.io/p/fisrt/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hgye.github.io/p/fisrt/</guid>
+      <description>I don&amp;#39;t know what it is</description>
+    </item>
+  </channel>
+</rss>

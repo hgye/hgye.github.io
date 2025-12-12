@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on hgye's notes</title><link>https://hgye.github.io/categories/</link><description>Recent content in Categories on hgye's notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hgye.github.io/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>blog</title><link>https://hgye.github.io/categories/blog/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://hgye.github.io/categories/blog/</guid><description/></item><item><title>hugo</title><link>https://hgye.github.io/categories/hugo/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://hgye.github.io/categories/hugo/</guid><description/></item><item><title>json</title><link>https://hgye.github.io/categories/json/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://hgye.github.io/categories/json/</guid><description/></item><item><title>k8s</title><link>https://hgye.github.io/categories/k8s/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://hgye.github.io/categories/k8s/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on hgye&#39;s notes</title>
+    <link>https://hgye.github.io/categories/</link>
+    <description>Recent content in Categories on hgye&#39;s notes</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hgye.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://hgye.github.io/categories/blog/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hgye.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://hgye.github.io/categories/hugo/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hgye.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Json</title>
+      <link>https://hgye.github.io/categories/json/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hgye.github.io/categories/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K8s</title>
+      <link>https://hgye.github.io/categories/k8s/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hgye.github.io/categories/k8s/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
