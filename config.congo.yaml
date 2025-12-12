@@ -1,0 +1,121 @@
+baseURL: https://hgye.github.io
+languageCode: en-us
+title: hgye's notes
+theme: congo
+
+pagination:
+  pagerSize: 10
+
+# Default language
+defaultContentLanguage: en
+
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+
+# Permalinks
+permalinks:
+  posts: /p/:slug/
+
+# Enable emoji
+enableEmoji: true
+
+# Markup settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    lineNumbersInTable: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+
+# Outputs for search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Congo theme parameters
+params:
+  # Color scheme
+  colorScheme: congo
+  defaultAppearance: auto
+  autoSwitchAppearance: true
+
+  # Enable search
+  enableSearch: true
+  enableCodeCopy: true
+
+  # Site metadata
+  mainSections:
+    - post
+
+  # Article settings
+  article:
+    showDate: true
+    showDateUpdated: true
+    showAuthor: true
+    showReadingTime: true
+    showTableOfContents: true
+    showTaxonomies: true
+    showWordCount: false
+    sharingLinks:
+      - twitter
+      - facebook
+      - linkedin
+
+  # List page settings
+  list:
+    showTableOfContents: false
+    showSummary: true
+    groupByYear: true
+
+  # Homepage layout
+  homepage:
+    layout: profile
+    showRecent: true
+    recentLimit: 5
+
+  # Header
+  header:
+    layout: basic
+
+  # Footer
+  footer:
+    showCopyright: true
+    showThemeAttribution: true
+    showAppearanceSwitcher: true
+    showScrollToTop: true
+
+  # Author info
+  author:
+    name: hgye
+    image: img/avatar.png
+    headline: If you know the means of @
+    links:
+      - github: https://github.com/hgye
+      - twitter: https://twitter.com
+
+# Menu
+menu:
+  main:
+    - name: Posts
+      pageRef: post
+      weight: 10
+    - name: About
+      pageRef: page/about
+      weight: 20
+    - name: Archives
+      pageRef: page/archives
+      weight: 30
+    - name: Search
+      pageRef: page/search
+      weight: 40
