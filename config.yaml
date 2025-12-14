@@ -2,6 +2,7 @@ baseURL: https://hgye.github.io
 languageCode: en-us
 title: hgye's notes
 theme: PaperMod
+copyright: "© 2020 - 2025 hgye's notes"
 
 pagination:
   pagerSize: 10
