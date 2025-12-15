@@ -89,20 +89,13 @@ params:
     icon: /img/avatar.png
     iconHeight: 35
 
-  # Profile mode (homepage)
-  profileMode:
-    enabled: true
-    title: hgye
-    subtitle: If you know the means of @
+  # Home info (shows posts list below)
+  homeInfoParams:
+    Title: hgye
+    Content: If you know the means of @
     imageUrl: /img/avatar.png
     imageWidth: 120
     imageHeight: 120
-    imageTitle: avatar
-    buttons:
-      - name: Posts
-        url: post
-      - name: Archives
-        url: archives
 
   # Social icons
   socialIcons:
